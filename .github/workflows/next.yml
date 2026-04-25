@@ -1,0 +1,41 @@
+name: next 
+
+on:
+  repository_dispatch:
+    types:
+      - webhook
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+
+      - name: update readme
+        env:
+          URLS: ${{ secrets.URLS }}
+        run: |
+          python - <<'EOF'
+          import os, re
+          from datetime import date, timedelta
+          links = [l.strip() for l in os.environ["URLS"].strip().splitlines() if l.strip()]
+          today = date.today()
+          i = (today - timedelta(days=today.weekday()) - date(2026, 4, 27)).days // 7
+          content = open("README.md").read()
+          content = re.sub(r"This week: \[.*?\]\(.*?\)", f"This week: {links[i]}", content)
+          content = re.sub(r"Next week: \[.*?\]\(.*?\)", f"Next week: {links[i+1]}", content)
+          open("README.md", "w").write(content)
+          EOF
+
+      - name: commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email no-reply@github.com
+          git add .
+          git diff --cached --quiet || git commit -m next
+          git push
