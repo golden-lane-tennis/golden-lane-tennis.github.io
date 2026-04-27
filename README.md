@@ -10,4 +10,4 @@ Rules:
 - Refreshes on Mondays at 4am
 
 Contact:
-- Join our [WhatsApp group](https://chat.whatsapp.com/DTW64uEVptiJJj5buXrUw2?mode=gi_t) to get involved
+- Join our [WhatsApp group](https://chat.whatsapp.com/KZvPiknGh6R5UaHJWDi1Km?mode=gi_t) to get involved
