@@ -1,8 +1,8 @@
 # Golden Lane Tennis
 
 Weekly booking calendars:
-- This week: [title](link)
-- Next week: [title](link)
+- This week: [April 27 – May 3](https://docs.google.com/spreadsheets/d/1oMt33G1JlQxhnMojeb4FovD-j9NP0M2YnI14uC9VA2E)
+- Next week: [May 4 – May 10](https://docs.google.com/spreadsheets/d/1sG7-kHbjvFB8mrhyu7f1Krw0NWAmzZDhNEvKiJyfHMQ)
 
 Rules:
 - First come first served
