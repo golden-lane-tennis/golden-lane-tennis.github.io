@@ -1,8 +1,8 @@
 # Golden Lane Tennis
 
 Weekly booking calendars:
-- This week: [July 13 – July 19](https://docs.google.com/spreadsheets/d/1Cpl-o0WwIK5EmA436hpJqNcAr1qNOaS3JcnjOnqN2D4)
-- Next week: [July 20 – July 26](https://docs.google.com/spreadsheets/d/11_qCV9VXzu7gK9kqLC9l5mI-WR1VHHNW0EnqNh0CYX4)
+- This week: [July 20 – July 26](https://docs.google.com/spreadsheets/d/11_qCV9VXzu7gK9kqLC9l5mI-WR1VHHNW0EnqNh0CYX4)
+- Next week: [July 27 – August 2](https://docs.google.com/spreadsheets/d/1fahPWIA5au3f0SnELPVM2AArzpSBBIr0avMX_iPhPy0)
 
 Rules:
 - First come first served
