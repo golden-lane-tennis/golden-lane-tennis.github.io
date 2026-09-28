@@ -1,8 +1,8 @@
 # Golden Lane Tennis
 
 Weekly booking calendars:
-- This week: [September 21 – September 27](https://docs.google.com/spreadsheets/d/1IOLVelsuRmtlIqCqT0mVkzFgkE9v-V9TTtsv5B5KSmw)
-- Next week: [September 28 – October 4](https://docs.google.com/spreadsheets/d/1C9B5LrdRlcwab0HsrjEwMgP-MbK5JJSqvk0oxdckxOk)
+- This week: [September 28 – October 4](https://docs.google.com/spreadsheets/d/1C9B5LrdRlcwab0HsrjEwMgP-MbK5JJSqvk0oxdckxOk)
+- Next week: [October 5 – October 11](https://docs.google.com/spreadsheets/d/1Pz5FxyQUqd4svslQ39ZxIcCHKYdvnV1TBlcy4d5PTKg)
 
 Rules:
 - First come first served
